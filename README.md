@@ -1,2 +1,3 @@
 # introduction-to-algorithm
-Introduction to algorithms practice problems
+Coursera Course
+I'm Bob Sedgewick, professor of computer science at Princeton!
