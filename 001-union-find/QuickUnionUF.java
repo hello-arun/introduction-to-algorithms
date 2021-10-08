@@ -14,6 +14,7 @@ public class QuickUnionUF {
 
     private int root(int i) {
         while (i != id[i]) {
+            id[i] = id[id[i]]    //Path Compression
             i = id[i];
         }
         return i;
