@@ -1,0 +1,9 @@
+Percolation Probability Problem
+
+Given a N*N grid.
+Each Grid can be white with probability p  and black with prob 1-p.
+White means that the grid is open and black means it is closed.
+You may treat it like a pathfinding problem.
+The Given grid percolates if there is any path from top sites to the bottom sites. 
+From any top site to any bottom site.
+Find this probability p such that the given grid Percolates.
